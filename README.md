@@ -14,5 +14,6 @@
 |**1**| **[Time Conversion](https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/TimeConversion.cs)** |
 |**1**| **[Sparse Arrays](https://www.hackerrank.com/challenges/one-month-preparation-kit-sparse-arrays/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/SparseArrays.cs)** |
 |**1**| **[Lonely Integer](https://www.hackerrank.com/challenges/one-month-preparation-kit-lonely-integer/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/LonelyInteger.cs)** |
-|**1**| **[Fliping Bits](https://www.hackerrank.com/challenges/one-month-preparation-kit-flipping-bits/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/LonelyInteger.cs)** |
+|**1**| **[Fliping Bits](https://www.hackerrank.com/challenges/one-month-preparation-kit-flipping-bits/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/FlipingBits.cs)** |
+|**1**| **[Diagonal Difference](https://www.hackerrank.com/challenges/one-month-preparation-kit-diagonal-difference/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/DiagonalDifference.cs)** |
 
