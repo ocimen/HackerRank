@@ -16,4 +16,5 @@
 |**1**| **[Lonely Integer](https://www.hackerrank.com/challenges/one-month-preparation-kit-lonely-integer/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/LonelyInteger.cs)** |
 |**1**| **[Fliping Bits](https://www.hackerrank.com/challenges/one-month-preparation-kit-flipping-bits/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/FlipingBits.cs)** |
 |**1**| **[Diagonal Difference](https://www.hackerrank.com/challenges/one-month-preparation-kit-diagonal-difference/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/DiagonalDifference.cs)** |
+|**1**| **[Counting Sort 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-countingsort1/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/CountingSort1.cs)** |
 
