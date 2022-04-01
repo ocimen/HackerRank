@@ -19,3 +19,9 @@
 |**1**| **[Counting Sort 1](https://www.hackerrank.com/challenges/one-month-preparation-kit-countingsort1/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/CountingSort1.cs)** |
 |**1**| **[Pangrams](https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/Pangrams.cs)** |
 |**1**| **[XOR Strings 2](https://www.hackerrank.com/challenges/one-month-preparation-kit-strings-xor/problem)** | **[Java](https://github.com/ocimen/HackerRank/blob/main/1%20Month%20Preparation%20Kit/Week%201/Pangrams.cs)** |
+
+#The HackerRank Interview Preparation Kit
+
+| Topic | Title | Solution | 
+|------| ----- | -------- |
+|**Warm-up Challenges**| **[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/SalesbyMatch.cs)** |
