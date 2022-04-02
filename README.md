@@ -25,3 +25,4 @@
 | Topic | Title | Solution | 
 |------| ----- | -------- |
 |**Warm-up Challenges**| **[Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/SalesbyMatch.cs)** |
+|**Warm-up Challenges**| **[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)** | **[C#](https://github.com/ocimen/HackerRank/blob/main/Interview%20Preparation%20Kit/Warm-up%20Challenges/CountingValleys.cs)** |
